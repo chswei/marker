@@ -1,6 +1,6 @@
 # PDF to Markdown Converter using Marker
 
-This project uses the [Marker](https://github.com/VikParuchuri/marker) library to convert PDF files, particularly academic papers, into Markdown format, including extracting text and images.
+This project uses the [Marker](https://github.com/VikParuchuri/marker) library to convert PDF files into Markdown format, including extracting text and images.
 
 ## Requirements
 
